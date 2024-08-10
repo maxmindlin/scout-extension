@@ -2,7 +2,7 @@ Scout-extension is a Google Chrome devtools extension that allows the recorder t
 
 ## Caveats
 
-While the Google recorder API supports ARIA, CSS, XPath, Text, and Pierce, Scoutlang currently only supports CSS. So when new recordings are created, it is critical that *only CSS* is the only selected type to record.
+While the Google recorder API supports ARIA, CSS, XPath, Text, and Pierce, Scoutlang currently only supports CSS. So when new recordings are created, it is critical that *only CSS* is a selected type to record.
 
 ## Developement
 
