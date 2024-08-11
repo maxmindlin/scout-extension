@@ -1,3 +1,10 @@
+<div align="center">
+<img src="./assets/logo.png" width="200">
+<p style="font-size:0.5em;color:#d4d4d4">A Devtools Recorder Extension</p>
+</div>
+<hr>
+<br>
+
 Scout-extension is a Google Chrome devtools extension that allows the recorder to transpile directly to ScoutLang.
 
 ## Caveats
